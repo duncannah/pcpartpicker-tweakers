@@ -5,6 +5,11 @@
 
 	"description": "Find better deals on PCPartPicker in 🇳🇱🇧🇪",
 
+	"icons": {
+		"48": "icon-48.png",
+		"128": "icon-128.png"
+	},
+
 	"background": {
 		"scripts": ["background.js"],
 		"persistent": false
