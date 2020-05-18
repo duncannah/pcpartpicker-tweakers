@@ -1,9 +1,9 @@
 {
 	"manifest_version": 2,
-	"name": "PCPartPicker with Tweakers price check (unofficial)",
+	"name": "PCPartPicker with Tweakers price check",
 	"version": "1.0",
 
-	"description": "Find better deals on PCPartPicker in 🇳🇱🇧🇪",
+	"description": "(UNOFFICIAL) Find better deals on PCPartPicker in 🇳🇱🇧🇪",
 
 	"icons": {
 		"48": "icon-48.png",
