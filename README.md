@@ -10,6 +10,8 @@ Only works on a parts list page. I recommend to use de.pcpartpicker.com or nl.pc
 
 Only tested with Chrome but it should work with Firefox and others.
 
+[![Chrome Web Store](https://developer.chrome.com/webstore/images/ChromeWebStore_BadgeWBorder_v2_206x58.png)](https://chrome.google.com/webstore/detail/ooloppgahohjflagpamnkngbkimfpeko)
+
 # License
 
 This software is licensed under the GNU Affero General Public License v3.0, a copy of which can be found in [LICENSE](LICENSE), or at https://www.gnu.org/licenses/.
