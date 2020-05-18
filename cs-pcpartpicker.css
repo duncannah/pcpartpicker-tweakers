@@ -1,0 +1,17 @@
+.tw-base, .tw-promo, .tw-shipping, .tw-tax, .tw-price {
+	color: #ad266a !important;
+}
+
+.tw-price {
+	display: block;
+}
+
+.tw-price.loading:after {
+	content: "";
+	background: url("chrome-extension://__MSG_@@extension_id__/loader.svg");
+	display: inline-block;
+	width: 15px;
+	height: 15px;
+	margin: 8px 4px;
+	position: absolute;
+}
